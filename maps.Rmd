@@ -15,4 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 library("tidycensus")
 
+census_api_key("API KEY")
+
 ```
